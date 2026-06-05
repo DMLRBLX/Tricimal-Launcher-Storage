@@ -1,9 +1,9 @@
 {
   "unique": "com.kiloo.subwaysurfers",
   "name": "Subway Surfers",
-  "packageName": "com.kiloo.subwaysurf_1.62.1-102_minAPI14(armeabi-v7a,x86)(nodpi)_apkmirror.com.apk",
-  "apkUrl": "",
-  "date": "2026-06-04",
-  "extension": "apkm",
+  "packageName": "com.kiloo.subwaysurf_3.64.0-91926_minAPI23(armeabi-v7a)(nodpi)_apkmirror.com",
+  "apkUrl": "https://github.com/DMLRBLX/Tricimal-Launcher-Storage/releases/download/Subway-Surfers/com.kiloo.subwaysurf_3.64.0-91926_minAPI23.armeabi-v7a.nodpi._apkmirror.com.apk",
+  "date": "2026-06-05",
+  "extension": "apk",
   "type": "game"
 }
